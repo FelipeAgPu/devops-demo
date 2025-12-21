@@ -3,4 +3,4 @@ service:
   targetPort: 80
 
 api:
-  replicaCount: 2
+  replicaCount: 1
